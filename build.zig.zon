@@ -1,8 +1,8 @@
 .{
     .name = .json_segel,
     .version = "0.0.0",
-    .fingerprint = 0x6067ce4827729851,
-    .minimum_zig_version = "0.16.0",
+    .fingerprint = 0x6067ce481163d72a,
+    .minimum_zig_version = "0.17.1",
     .dependencies = .{},
     .paths = .{
         "build.zig",
